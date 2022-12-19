@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shehroze321/Todo-list-app.github.io.git/static/css/main.82cac5dc.css",
+    "main.js": "/shehroze321/Todo-list-app.github.io.git/static/js/main.eb10d1b5.js",
+    "index.html": "/shehroze321/Todo-list-app.github.io.git/index.html",
+    "main.82cac5dc.css.map": "/shehroze321/Todo-list-app.github.io.git/static/css/main.82cac5dc.css.map",
+    "main.eb10d1b5.js.map": "/shehroze321/Todo-list-app.github.io.git/static/js/main.eb10d1b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82cac5dc.css",
+    "static/js/main.eb10d1b5.js"
+  ]
+}
